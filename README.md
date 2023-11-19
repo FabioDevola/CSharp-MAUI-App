@@ -1,6 +1,6 @@
-# Bike Spares Inventory System
+# Bike Shop Inventory Management System
 
-An Inventory management application made with the **.NET MAUI Blazor** framework following **1-tier Architecture** to manage inventory of bike spare parts in desktop.
+An Inventory management application made with the **.NET MAUI Blazor** framework to manage inventory of bike spare parts using a desktop application setting on Windows/MAC.
 
 ## Features
 
@@ -30,7 +30,7 @@ An Inventory management application made with the **.NET MAUI Blazor** framework
   - JSON *.json*
   - CSV *.csv*
 - Paginated Table
-- Good UI/UX
+- Modern UI/UX
 
 ## Role-based Actions
 
