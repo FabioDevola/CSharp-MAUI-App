@@ -50,7 +50,7 @@ public partial class Dashboard
                     },
                     Title = new Title()
                     {
-                        Text = "Inventory Items",
+                        Text = "InventoryThing Items",
                         Display = true,
                         Font = new PSC.Blazor.Components.Chartjs.Models.Common.Font()
                         {

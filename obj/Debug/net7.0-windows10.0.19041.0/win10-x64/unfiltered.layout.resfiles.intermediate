@@ -1,7 +1,6 @@
 wwwroot\_content\MudBlazor\MudBlazor.min.css
 wwwroot\_content\MudBlazor\MudBlazor.min.js
 libman.json
-psc_ico.ico
 wwwroot\Chart.js
 wwwroot\lib\Chart.js\chart.esm.js
 wwwroot\lib\Chart.js\chart.esm.min.js

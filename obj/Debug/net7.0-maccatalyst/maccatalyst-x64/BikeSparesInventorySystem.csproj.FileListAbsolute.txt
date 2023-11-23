@@ -618,3 +618,4 @@ C:\Users\Rei\Source\Repos\bikeshopproj\obj\Debug\net7.0-maccatalyst\maccatalyst-
 C:\Users\Rei\Source\Repos\bikeshopproj\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\BikeSparesInventorySystem.pdb
 C:\Users\Rei\Source\Repos\bikeshopproj\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\BikeSparesInventorySystem.genruntimeconfig.cache
 C:\Users\Rei\Source\Repos\bikeshopproj\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\ref\BikeSparesInventorySystem.dll
+C:\Users\Rei\source\repos\bikeshopproj\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\BikeSparesInventorySystem.sourcelink.json

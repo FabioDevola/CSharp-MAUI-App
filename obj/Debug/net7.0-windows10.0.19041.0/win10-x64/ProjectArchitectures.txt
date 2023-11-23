@@ -1,1 +1,1 @@
-C:\Users\Rei\Source\Repos\bikeshopproj\BikeSparesInventorySystem.csproj;x64
+C:\Users\Rei\source\repos\bikeshopproj\BikeSparesInventorySystem.csproj;x64

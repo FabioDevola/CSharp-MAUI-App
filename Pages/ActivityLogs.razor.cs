@@ -17,7 +17,7 @@ public partial class ActivityLogs
 
     protected sealed override void OnInitialized()
     {
-        SetAppBarTitle.Invoke("Inventory Activity Logs");
+        SetAppBarTitle.Invoke("InventoryThing Activity Logs");
         Elements = GetByUserType();
     }
 

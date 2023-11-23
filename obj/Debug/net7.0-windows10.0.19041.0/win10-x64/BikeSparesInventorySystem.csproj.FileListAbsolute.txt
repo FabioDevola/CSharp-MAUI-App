@@ -633,7 +633,6 @@ C:\Users\Rei\Source\Repos\bikeshopproj\bin\Debug\net7.0-windows10.0.19041.0\win1
 C:\Users\Rei\Source\Repos\bikeshopproj\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\hostfxr.dll
 C:\Users\Rei\Source\Repos\bikeshopproj\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\hostpolicy.dll
 C:\Users\Rei\Source\Repos\bikeshopproj\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore.dll
-C:\Users\Rei\Source\Repos\bikeshopproj\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore_amd64_amd64_7.0.1323.51816.dll
 C:\Users\Rei\Source\Repos\bikeshopproj\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordbi.dll
 C:\Users\Rei\Source\Repos\bikeshopproj\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscorrc.dll
 C:\Users\Rei\Source\Repos\bikeshopproj\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\msquic.dll
@@ -746,3 +745,5 @@ C:\Users\Rei\Source\Repos\bikeshopproj\obj\Debug\net7.0-windows10.0.19041.0\win1
 C:\Users\Rei\Source\Repos\bikeshopproj\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\Rei\Source\Repos\bikeshopproj\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Users\Rei\Source\Repos\bikeshopproj\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Users\Rei\source\repos\bikeshopproj\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\mscordaccore_amd64_amd64_7.0.1423.51910.dll
+C:\Users\Rei\source\repos\bikeshopproj\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\BikeSparesInventorySystem.sourcelink.json
