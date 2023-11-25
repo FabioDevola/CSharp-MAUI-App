@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BikeSparesInventorySystem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+0467cd12c3e8ba7cfff84f2bd6265ba0ab0151d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("BikeSparesInventorySystem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BikeSparesInventorySystem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

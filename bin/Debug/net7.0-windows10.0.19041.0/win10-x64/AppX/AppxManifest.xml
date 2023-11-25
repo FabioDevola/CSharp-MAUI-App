@@ -7,7 +7,7 @@
 
     For more information on package manifest files, see http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="082A4B34-31E2-40AF-B128-8FFC7F395313" Publisher="CN=bishalgc" Version="1.0.1.0" ProcessorArchitecture="x64" />
+  <Identity Name="082A4B34-31E2-40AF-B128-8FFC7F395313" Publisher="CN=Fabio Tran" Version="1.0.1.0" ProcessorArchitecture="x64" />
   <mp:PhoneIdentity PhoneProductId="E04BEA2A-DB23-4529-A029-095B25E8D5A9" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>Bike Shop Inventory</DisplayName>

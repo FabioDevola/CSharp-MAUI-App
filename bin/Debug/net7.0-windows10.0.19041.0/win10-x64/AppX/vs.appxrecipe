@@ -9,7 +9,7 @@
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>082A4B34-31E2-40AF-B128-8FFC7F395313</PackageIdentityName>
-    <PackageIdentityPublisher>CN=bishalgc</PackageIdentityPublisher>
+    <PackageIdentityPublisher>CN=Fabio Tran</PackageIdentityPublisher>
     <IntermediateOutputPath>C:\Users\Rei\source\repos\bikeshopproj\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,24 +18,24 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
     <LayoutDir>C:\Users\Rei\source\repos\bikeshopproj\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
-    <RegisteredManifestChecksum>943B1534677919F1BE6D447EEDEE8C0C8D48C267ADC9843DBEF88200F251BC3B</RegisteredManifestChecksum>
-    <RegisteredPackageMoniker>082A4B34-31E2-40AF-B128-8FFC7F395313_1.0.1.0_x64__1fbbga71p8hha</RegisteredPackageMoniker>
-    <RegisteredUserModeAppID>082A4B34-31E2-40AF-B128-8FFC7F395313_1fbbga71p8hha!App</RegisteredUserModeAppID>
+    <RegisteredManifestChecksum>48B2618CBC4E39094057A8D6FE69F315F80D39969ABB3EA9CA3247D7E51FDDEE</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>082A4B34-31E2-40AF-B128-8FFC7F395313_1.0.1.0_x64__85577fkk7r64r</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>082A4B34-31E2-40AF-B128-8FFC7F395313_85577fkk7r64r!App</RegisteredUserModeAppID>
     <RegisteredPackageID>082A4B34-31E2-40AF-B128-8FFC7F395313</RegisteredPackageID>
-    <RegisteredPackagePublisher>CN=bishalgc</RegisteredPackagePublisher>
+    <RegisteredPackagePublisher>CN=Fabio Tran</RegisteredPackagePublisher>
     <RegisteredVersion>1.0.1.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
     <AppXManifest Include="C:\Users\Rei\source\repos\bikeshopproj\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-11-23T03:09:38.826</Modified>
+      <Modified>2023-11-25T19:38:54.902</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Rei\source\repos\bikeshopproj\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-11-23T03:09:38.538</Modified>
+      <Modified>2023-11-25T19:38:54.631</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Rei\source\repos\bikeshopproj\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\BikeSparesInventorySystem.runtimeconfig.json">
       <PackagePath>BikeSparesInventorySystem.runtimeconfig.json</PackagePath>
@@ -43,15 +43,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Rei\source\repos\bikeshopproj\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\BikeSparesInventorySystem.dll">
       <PackagePath>BikeSparesInventorySystem.dll</PackagePath>
-      <Modified>2023-11-23T03:04:39.386</Modified>
+      <Modified>2023-11-25T19:38:53.638</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Rei\source\repos\bikeshopproj\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>BikeSparesInventorySystem.exe</PackagePath>
-      <Modified>2023-11-23T03:04:39.427</Modified>
+      <Modified>2023-11-25T19:38:53.674</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Rei\source\repos\bikeshopproj\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\BikeSparesInventorySystem.deps.json">
       <PackagePath>BikeSparesInventorySystem.deps.json</PackagePath>
-      <Modified>2023-11-23T02:20:40.853</Modified>
+      <Modified>2023-11-25T19:38:54.470</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Rei\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.14\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>

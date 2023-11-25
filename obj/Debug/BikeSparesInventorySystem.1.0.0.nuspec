@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>BikeSparesInventorySystem</id>
+    <version>1.0.0</version>
+    <authors>BikeSparesInventorySystem</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="0467cd12c3e8ba7cfff84f2bd6265ba0ab0151d2" />
+    <dependencies>
+      <group targetFramework="net7.0">
+        <dependency id="Bogus" version="34.0.2" exclude="Build,Analyzers" />
+        <dependency id="CsvHelper" version="30.0.1" exclude="Build,Analyzers" />
+        <dependency id="ExcelMapper" version="5.2.542" exclude="Build,Analyzers" />
+        <dependency id="MudBlazor" version="6.11.0" exclude="Build,Analyzers" />
+        <dependency id="PSC.Blazor.Components.Chartjs" version="6.0.41" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net7.0-maccatalyst16.1">
+        <dependency id="Bogus" version="34.0.2" exclude="Build,Analyzers" />
+        <dependency id="CsvHelper" version="30.0.1" exclude="Build,Analyzers" />
+        <dependency id="ExcelMapper" version="5.2.542" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Components.WebView.Maui" version="7.0.101" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration" version="7.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.DependencyInjection" version="7.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Logging" version="7.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Maui.Graphics" version="7.0.101" exclude="Build,Analyzers" />
+        <dependency id="MudBlazor" version="6.11.0" exclude="Build,Analyzers" />
+        <dependency id="PSC.Blazor.Components.Chartjs" version="6.0.41" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net7.0-windows10.0.19041">
+        <dependency id="Bogus" version="34.0.2" exclude="Build,Analyzers" />
+        <dependency id="CsvHelper" version="30.0.1" exclude="Build,Analyzers" />
+        <dependency id="ExcelMapper" version="5.2.542" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Components.WebView.Maui" version="7.0.101" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration" version="7.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.DependencyInjection" version="7.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Logging" version="7.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Maui.Graphics" version="7.0.101" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Maui.Graphics.Win2D.WinUI.Desktop" version="7.0.101" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.WindowsAppSDK" version="1.2.221209.1" exclude="Build,Analyzers" />
+        <dependency id="MudBlazor" version="6.11.0" exclude="Build,Analyzers" />
+        <dependency id="PSC.Blazor.Components.Chartjs" version="6.0.41" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Rei\source\repos\bikeshopproj\bin\Debug\net7.0\BikeSparesInventorySystem.dll" target="lib\net7.0\BikeSparesInventorySystem.dll" />
+    <file src="C:\Users\Rei\source\repos\bikeshopproj\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\BikeSparesInventorySystem.runtimeconfig.json" target="lib\net7.0-maccatalyst16.1\BikeSparesInventorySystem.runtimeconfig.json" />
+    <file src="C:\Users\Rei\source\repos\bikeshopproj\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\BikeSparesInventorySystem.dll" target="lib\net7.0-maccatalyst16.1\BikeSparesInventorySystem.dll" />
+    <file src="C:\Users\Rei\source\repos\bikeshopproj\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\BikeSparesInventorySystem.runtimeconfig.json" target="lib\net7.0-windows10.0.19041\BikeSparesInventorySystem.runtimeconfig.json" />
+    <file src="C:\Users\Rei\source\repos\bikeshopproj\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\BikeSparesInventorySystem.dll" target="lib\net7.0-windows10.0.19041\BikeSparesInventorySystem.dll" />
+    <file src="C:\Users\Rei\source\repos\bikeshopproj\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri" target="lib\net7.0-windows10.0.19041\resources.pri" />
+    <file src="C:\Users\Rei\.nuget\packages\psc.blazor.components.chartjs\6.0.41\contentFiles\any\net6.0\wwwroot\Chart.js" target="staticwebassets\Chart.js" />
+    <file src="C:\Users\Rei\.nuget\packages\psc.blazor.components.chartjs\6.0.41\contentFiles\any\net6.0\wwwroot\lib\Chart.js\chart.esm.js" target="staticwebassets\lib\Chart.js\chart.esm.js" />
+    <file src="C:\Users\Rei\.nuget\packages\psc.blazor.components.chartjs\6.0.41\contentFiles\any\net6.0\wwwroot\lib\Chart.js\chart.esm.min.js" target="staticwebassets\lib\Chart.js\chart.esm.min.js" />
+    <file src="C:\Users\Rei\.nuget\packages\psc.blazor.components.chartjs\6.0.41\contentFiles\any\net6.0\wwwroot\lib\Chart.js\chart.js" target="staticwebassets\lib\Chart.js\chart.js" />
+    <file src="C:\Users\Rei\.nuget\packages\psc.blazor.components.chartjs\6.0.41\contentFiles\any\net6.0\wwwroot\lib\Chart.js\chart.min.js" target="staticwebassets\lib\Chart.js\chart.min.js" />
+    <file src="C:\Users\Rei\.nuget\packages\psc.blazor.components.chartjs\6.0.41\contentFiles\any\net6.0\wwwroot\lib\Chart.js\chart.mjs" target="staticwebassets\lib\Chart.js\chart.mjs" />
+    <file src="C:\Users\Rei\.nuget\packages\psc.blazor.components.chartjs\6.0.41\contentFiles\any\net6.0\wwwroot\lib\Chart.js\helpers.esm.js" target="staticwebassets\lib\Chart.js\helpers.esm.js" />
+    <file src="C:\Users\Rei\.nuget\packages\psc.blazor.components.chartjs\6.0.41\contentFiles\any\net6.0\wwwroot\lib\Chart.js\helpers.esm.min.js" target="staticwebassets\lib\Chart.js\helpers.esm.min.js" />
+    <file src="C:\Users\Rei\.nuget\packages\psc.blazor.components.chartjs\6.0.41\contentFiles\any\net6.0\wwwroot\lib\Chart.js\helpers.mjs" target="staticwebassets\lib\Chart.js\helpers.mjs" />
+    <file src="C:\Users\Rei\.nuget\packages\psc.blazor.components.chartjs\6.0.41\contentFiles\any\net6.0\wwwroot\lib\chartjs-plugin-datalabels\chartjs-plugin-datalabels.esm.js" target="staticwebassets\lib\chartjs-plugin-datalabels\chartjs-plugin-datalabels.esm.js" />
+    <file src="C:\Users\Rei\.nuget\packages\psc.blazor.components.chartjs\6.0.41\contentFiles\any\net6.0\wwwroot\lib\chartjs-plugin-datalabels\chartjs-plugin-datalabels.esm.min.js" target="staticwebassets\lib\chartjs-plugin-datalabels\chartjs-plugin-datalabels.esm.min.js" />
+    <file src="C:\Users\Rei\.nuget\packages\psc.blazor.components.chartjs\6.0.41\contentFiles\any\net6.0\wwwroot\lib\chartjs-plugin-datalabels\chartjs-plugin-datalabels.js" target="staticwebassets\lib\chartjs-plugin-datalabels\chartjs-plugin-datalabels.js" />
+    <file src="C:\Users\Rei\.nuget\packages\psc.blazor.components.chartjs\6.0.41\contentFiles\any\net6.0\wwwroot\lib\chartjs-plugin-datalabels\chartjs-plugin-datalabels.min.js" target="staticwebassets\lib\chartjs-plugin-datalabels\chartjs-plugin-datalabels.min.js" />
+    <file src="C:\Users\Rei\.nuget\packages\psc.blazor.components.chartjs\6.0.41\contentFiles\any\net6.0\wwwroot\lib\chartjs-plugin-zoom\chartjs-plugin-zoom.esm.js" target="staticwebassets\lib\chartjs-plugin-zoom\chartjs-plugin-zoom.esm.js" />
+    <file src="C:\Users\Rei\.nuget\packages\psc.blazor.components.chartjs\6.0.41\contentFiles\any\net6.0\wwwroot\lib\chartjs-plugin-zoom\chartjs-plugin-zoom.esm.min.js" target="staticwebassets\lib\chartjs-plugin-zoom\chartjs-plugin-zoom.esm.min.js" />
+    <file src="C:\Users\Rei\.nuget\packages\psc.blazor.components.chartjs\6.0.41\contentFiles\any\net6.0\wwwroot\lib\chartjs-plugin-zoom\chartjs-plugin-zoom.js" target="staticwebassets\lib\chartjs-plugin-zoom\chartjs-plugin-zoom.js" />
+    <file src="C:\Users\Rei\.nuget\packages\psc.blazor.components.chartjs\6.0.41\contentFiles\any\net6.0\wwwroot\lib\chartjs-plugin-zoom\chartjs-plugin-zoom.min.js" target="staticwebassets\lib\chartjs-plugin-zoom\chartjs-plugin-zoom.min.js" />
+    <file src="C:\Users\Rei\.nuget\packages\psc.blazor.components.chartjs\6.0.41\contentFiles\any\net6.0\wwwroot\lib\hammer.js\hammer.js" target="staticwebassets\lib\hammer.js\hammer.js" />
+    <file src="C:\Users\Rei\.nuget\packages\psc.blazor.components.chartjs\6.0.41\contentFiles\any\net6.0\wwwroot\lib\hammer.js\hammer.min.js" target="staticwebassets\lib\hammer.js\hammer.min.js" />
+    <file src="C:\Users\Rei\.nuget\packages\psc.blazor.components.chartjs\6.0.41\contentFiles\any\net6.0\wwwroot\lib\hammer.js\hammer.min.js.map" target="staticwebassets\lib\hammer.js\hammer.min.js.map" />
+    <file src="C:\Users\Rei\.nuget\packages\psc.blazor.components.chartjs\6.0.41\contentFiles\any\net6.0\wwwroot\lib\hammer.js\hammer.min.map" target="staticwebassets\lib\hammer.js\hammer.min.map" />
+    <file src="C:\Users\Rei\source\repos\bikeshopproj\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\scopedcss\bundle\BikeSparesInventorySystem.styles.css" target="staticwebassets\BikeSparesInventorySystem.styles.css" />
+    <file src="C:\Users\Rei\source\repos\bikeshopproj\wwwroot\css\app.css" target="staticwebassets\css\app.css" />
+    <file src="C:\Users\Rei\source\repos\bikeshopproj\wwwroot\css\bootstrap\bootstrap.min.css" target="staticwebassets\css\bootstrap\bootstrap.min.css" />
+    <file src="C:\Users\Rei\source\repos\bikeshopproj\wwwroot\css\bootstrap\bootstrap.min.css.map" target="staticwebassets\css\bootstrap\bootstrap.min.css.map" />
+    <file src="C:\Users\Rei\source\repos\bikeshopproj\wwwroot\css\open-iconic\FONT-LICENSE" target="staticwebassets\css\open-iconic\FONT-LICENSE" />
+    <file src="C:\Users\Rei\source\repos\bikeshopproj\wwwroot\css\open-iconic\ICON-LICENSE" target="staticwebassets\css\open-iconic\ICON-LICENSE" />
+    <file src="C:\Users\Rei\source\repos\bikeshopproj\wwwroot\css\open-iconic\README.md" target="staticwebassets\css\open-iconic\README.md" />
+    <file src="C:\Users\Rei\source\repos\bikeshopproj\wwwroot\css\open-iconic\font\css\open-iconic-bootstrap.min.css" target="staticwebassets\css\open-iconic\font\css\open-iconic-bootstrap.min.css" />
+    <file src="C:\Users\Rei\source\repos\bikeshopproj\wwwroot\css\open-iconic\font\fonts\open-iconic.eot" target="staticwebassets\css\open-iconic\font\fonts\open-iconic.eot" />
+    <file src="C:\Users\Rei\source\repos\bikeshopproj\wwwroot\css\open-iconic\font\fonts\open-iconic.otf" target="staticwebassets\css\open-iconic\font\fonts\open-iconic.otf" />
+    <file src="C:\Users\Rei\source\repos\bikeshopproj\wwwroot\css\open-iconic\font\fonts\open-iconic.svg" target="staticwebassets\css\open-iconic\font\fonts\open-iconic.svg" />
+    <file src="C:\Users\Rei\source\repos\bikeshopproj\wwwroot\css\open-iconic\font\fonts\open-iconic.ttf" target="staticwebassets\css\open-iconic\font\fonts\open-iconic.ttf" />
+    <file src="C:\Users\Rei\source\repos\bikeshopproj\wwwroot\css\open-iconic\font\fonts\open-iconic.woff" target="staticwebassets\css\open-iconic\font\fonts\open-iconic.woff" />
+    <file src="C:\Users\Rei\source\repos\bikeshopproj\wwwroot\favicon.ico" target="staticwebassets\favicon.ico" />
+    <file src="C:\Users\Rei\source\repos\bikeshopproj\wwwroot\index.html" target="staticwebassets\index.html" />
+    <file src="C:\Users\Rei\source\repos\bikeshopproj\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\staticwebassets\msbuild.BikeSparesInventorySystem.Microsoft.AspNetCore.StaticWebAssets.props" target="build\Microsoft.AspNetCore.StaticWebAssets.props" />
+    <file src="C:\Users\Rei\source\repos\bikeshopproj\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\staticwebassets\msbuild.build.BikeSparesInventorySystem.props" target="build\BikeSparesInventorySystem.props" />
+    <file src="C:\Users\Rei\source\repos\bikeshopproj\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\staticwebassets\msbuild.buildMultiTargeting.BikeSparesInventorySystem.props" target="buildMultiTargeting\BikeSparesInventorySystem.props" />
+    <file src="C:\Users\Rei\source\repos\bikeshopproj\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\staticwebassets\msbuild.buildTransitive.BikeSparesInventorySystem.props" target="buildTransitive\BikeSparesInventorySystem.props" />
+  </files>
+</package>

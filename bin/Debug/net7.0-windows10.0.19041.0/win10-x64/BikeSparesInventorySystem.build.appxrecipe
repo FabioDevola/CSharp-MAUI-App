@@ -9,7 +9,7 @@
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>082A4B34-31E2-40AF-B128-8FFC7F395313</PackageIdentityName>
-    <PackageIdentityPublisher>CN=bishalgc</PackageIdentityPublisher>
+    <PackageIdentityPublisher>CN=Fabio Tran</PackageIdentityPublisher>
     <IntermediateOutputPath>C:\Users\Rei\source\repos\bikeshopproj\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
